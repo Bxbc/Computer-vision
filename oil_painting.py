@@ -5,7 +5,7 @@ Created on Sat Oct  5 15:08:48 2019
 Python Version = 3.6.9
 
 @author: Xi Bi
-ZID:z5198280
+
 COMP9517 Computer Vision ass_1
 
 """
