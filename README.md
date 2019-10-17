@@ -1,2 +1,1 @@
-# assignments
-Some IT assignments in UNSW 
+Some interesting problems I faced in study 
